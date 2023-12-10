@@ -1,8 +1,8 @@
 
 {
   "name": "react-conventional-commits-graph",
-  "description": "Emoji Bar Chart for Convetional Commits",
-  "version": "1.0.3",                     
+  "description": "React Emoji Bar Chart for Conventional Commits",
+  "version": "1.0.5",                     
   "type": "module",
   "source": "src/index.js",            
   "main": "dist/index.esm.cjs",

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const simpleGit = require('simple-git');
+import simpleGit from 'simple-git';
 const fs = require('fs');
 
 const localPath = "./";

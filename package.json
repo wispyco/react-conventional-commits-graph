@@ -1,6 +1,6 @@
 
 {
-  "name": "commit-graph-micro-bundle",
+  "name": "conventional-commit-graph",
   "description": "Emoji Bar Chart for Convetional Commits",
   "version": "1.0.0",                     
   "type": "module",
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "chart.js": "^4.4.0",
-    "commit-graph-micro-bundle": "file:.yalc/commit-graph-micro-bundle",
+    "conventional-commit-graph": "file:.yalc/conventional-commit-graph",
     "simple-git": "^2.45.1",
     "react-chartjs-2": "^5.2.0"
   },

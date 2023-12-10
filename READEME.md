@@ -10,4 +10,4 @@
 
 * `import {CommitChart} from "react-conventional-commits-graph";`
 
-* `<CommitChart />`
+* `<CommitChart />`     

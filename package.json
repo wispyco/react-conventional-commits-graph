@@ -31,6 +31,10 @@
     "webpack-dev-server": "^4.15.1",
     "microbundle": "^0.15.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wispyco/react-conventional-commits-graph.git"
+  },
   "bin": {
     "extract-commits": "server/processData.js"
   }

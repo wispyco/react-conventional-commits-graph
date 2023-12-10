@@ -1,4 +1,4 @@
-![Conventional Commits Graph](demo.jpg)
+![Conventional Commits Graph](https://github.com/wispyco/react-conventional-commits-graph/blob/main/demo.png?raw=true)
 
 * Add script and automate if you like with husky
 
